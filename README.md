@@ -55,3 +55,9 @@
 ```bash
 git clone https://github.com/<USERNAME>/chest-xray-classifier.git
 cd chest-xray-classifier
+```
+
+## Conclusion
+
+The **chest-xray-classifier** project demonstrates an end-to-end pipeline for classifying chest X-ray images using a custom CNN built from scratch in NumPy. It showcases both machine learning implementation and full-stack integration, providing a working web interface for real-time predictions. This project highlights skills in **CNN design, Python programming, and full-stack deployment**.
+
